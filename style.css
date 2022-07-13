@@ -1,0 +1,26 @@
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.cpr{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: grey;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid lightgray;
+    background-color: gray;
+}
